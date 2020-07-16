@@ -1,0 +1,6 @@
+#8BD8BD FOR SECONDARY COLOR
+#243665 FOR MAIN COLOR
+#FFFFFF FOR TEXT
+
+Font Sofia Pro Ultra Light
+https://github.com/AlejandroRuiz/PayPal.Forms
